@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata.
+type: software
+title: 'Backbone- and dataset-dependent calibration responses of zero-shot contrastive
+  vision–language models under geometric perturbations: a source-paired empirical
+  study'
+authors:
+- family-names: Li
+  given-names: Ruolei
+- family-names: Ru
+  given-names: Yaohui
+version: 1.0.0
+license: MIT
+repository-code: https://github.com/lilixiaoxiao1005/vlm-geometry-robustness-reproducibility

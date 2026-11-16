@@ -1,0 +1,9 @@
+Third-party provenance retained from the upstream NOTICE (scope narrowed to the component used here):
+
+Nature-Paper-Skills
+Copyright (c) 2026 Boom5426
+
+Apache-2.0 skills vendored into this repository:
+- skills/figure/figure-style from the Claude Science skill pack (skill "figure-style").
+
+This release adapts the rcParams configuration of that component. The complete Apache License 2.0 text is in LICENSE-APACHE. This notice does not select a licence for the project's own code. Other upstream skills are not included in this release.

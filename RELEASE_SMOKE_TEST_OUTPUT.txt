@@ -1,0 +1,18 @@
+test_aggregate_inputs_and_outputs (test_release_smoke.ReleaseSmoke.test_aggregate_inputs_and_outputs) ... Generated figure 4
+Generated figure 5
+Generated figure 6
+Generated figure 7
+Generated figure 9
+Generated figure 10
+Wrote aggregate metric differences and 76 raw condition-accuracy rows; no new inference or uncertainty estimates.
+Interaction values exported as recorded; direction and estimand are not relabeled.
+Wrote aggregate metric differences and 76 raw condition-accuracy rows; no new inference or uncertainty estimates.
+ok
+test_imports (test_release_smoke.ReleaseSmoke.test_imports) ... ok
+test_tampered_aggregate_rejected (test_release_smoke.ReleaseSmoke.test_tampered_aggregate_rejected) ... ok
+test_unavailable_figures_rejected (test_release_smoke.ReleaseSmoke.test_unavailable_figures_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 4.897s
+
+OK

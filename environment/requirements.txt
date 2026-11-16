@@ -1,0 +1,4 @@
+matplotlib==3.10.9
+numpy==1.26.3
+# Only needed by tests for PNG integrity, not for plotting:
+Pillow==10.2.0
